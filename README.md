@@ -26,19 +26,19 @@ I'm Alistair, a Freelance Mobile App Developer that designs and develops apps fo
 <a href="https://github.com/alistairholmes/Clima"><h3>Clima</h3></a>
 <p>Minimal Weather Application made with Flutter.</p>
 <a href="https://github.com/alistairholmes/Clima">View Code</a>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="https://github.com/alistairholmes/BMI-Calculator"><img align="left" hspace=68 src="https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif" width="200" /></a>
 <a href="https://github.com/alistairholmes/BMI-Calculator"><h3>BMI-Calculator</h3></a>
 <p>Find out if your're overweight with this BMI Calculator app.</p>
 <a href="https://github.com/alistairholmes/BMI-Calculator">View Code</a>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="https://github.com/alistairholmes/Bitcoin-Ticker"><img align="left" hspace=68 src="https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif" width="200" /></a>
 <a href="https://github.com/alistairholmes/Bitcoin-Ticker"><h3>Bitcoin-Ticker</h3></a>
 <p>Keep track of crypto currency prices.</p>
 <a href="https://github.com/alistairholmes/Bitcoin-Ticker">View Code</a>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="https://github.com/alistairholmes/Destini"><img align="left" hspace=68 src="https://github.com/londonappbrewery/Images/blob/master/Destini.gif" width="200" /></a>
 <a href="https://github.com/alistairholmes/Destini"><h3>Destini</h3></a>
